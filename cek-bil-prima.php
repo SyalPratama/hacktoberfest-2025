@@ -17,3 +17,4 @@ if(isset($_POST['check'])){
     <button type="submit" name="check">Cek</button>
 </form>
 <?php if($result) echo $result; ?>
+//hacktoberfest-2025
