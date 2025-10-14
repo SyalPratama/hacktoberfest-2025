@@ -8,3 +8,4 @@ $quotes = [
 $quote = $quotes[array_rand($quotes)];
 ?>
 <p>Quote Hari Ini: "<?= $quote ?>"</p>
+<p>Hacktober fest 2025</p>
