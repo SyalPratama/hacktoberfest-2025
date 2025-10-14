@@ -14,3 +14,4 @@ if(isset($_POST['calc'])){
     <button type="submit" name="calc">Hitung</button>
 </form>
 <?php if($result) echo $result; ?>
+    <p>Hacktoberfest2025</p>
