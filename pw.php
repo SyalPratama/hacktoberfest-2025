@@ -12,3 +12,4 @@ if(isset($_POST['generate'])){
 </form>
 <?php if($password) echo "Password: $password"; ?>
 // hacktober-fest2025
+// hacktoberfest-2025
