@@ -11,3 +11,4 @@ if(isset($_POST['generate'])){
     <button type="submit" name="generate">Generate</button>
 </form>
 <?php if($password) echo "Password: $password"; ?>
+// hacktober-fest2025
